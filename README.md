@@ -32,22 +32,13 @@ The objective was to identify **seasonal** and **geographic patterns** to help l
 
 ## 📸 Dashboard Snapshot
 
-![Calgary Crime Dashboard](./dashboard_snapshot.png) <!-- Substitua pelo caminho correto do print -->
+![Calgary Crime Dashboard](./dashboard_snapshot.png) 
 
 ## 🚀 Next Steps
 
 - Add external variables (e.g. weather, events, demographics) to enrich predictive power.
 - Automate dashboard updates and model retraining using new data.
 - Share insights with public safety officials for operational planning.
-
-## 📎 Repository Structure
-
-```plaintext
-├── data/                  # Historical crime datasets
-├── notebooks/             # Python scripts and notebooks
-├── dashboard/             # Power BI (.pbix) file
-├── visuals/               # Dashboard screenshots
-├── README.md              # Project documentation
 
 ## 📈 Forecasting Methodology
 
@@ -97,4 +88,13 @@ To predict monthly crime occurrences for 2024, a time series forecasting model w
 ---
 
 This methodology helped evaluate the feasibility of crime forecasting in Calgary and supported a data-driven approach to public safety planning.
+
+## 📎 Repository Structure
+
+```plaintext
+├── data/                  # Historical crime datasets
+├── notebooks/             # Python scripts and notebooks
+├── dashboard/             # Power BI (.pbix) file
+├── visuals/               # Dashboard screenshots
+├── README.md              # Project documentation
 
