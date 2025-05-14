@@ -89,12 +89,4 @@ To predict monthly crime occurrences for 2024, a time series forecasting model w
 
 This methodology helped evaluate the feasibility of crime forecasting in Calgary and supported a data-driven approach to public safety planning.
 
-## 📎 Repository Structure
-
-```plaintext
-├── data/                  # Historical crime datasets
-├── notebooks/             # Python scripts and notebooks
-├── dashboard/             # Power BI (.pbix) file
-├── visuals/               # Dashboard screenshots
-├── README.md              # Project documentation
 
