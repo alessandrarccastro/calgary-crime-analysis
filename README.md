@@ -30,6 +30,10 @@ The objective was to identify **seasonal** and **geographic patterns** to help l
 - 📍 **High-Crime Areas:** Communities such as **Downtown Commercial Core** and **Beltline** showed consistently high crime rates.
 - 🔮 **Forecasting:** The model successfully identified expected crime increases during holidays and weekends.
 
+## 📊 Online Dashboard 
+
+https://app.powerbi.com/groups/me/reports/5cede9a3-3a2e-43be-b66a-3e912ab3cefb/a97a01962d72c52991d9?experience=power-bi 
+
 ## 📸 Dashboard Snapshot
 
 ![Calgary Crime Dashboard](./dashboard_snapshot.png) 
