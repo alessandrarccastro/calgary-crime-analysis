@@ -36,7 +36,7 @@ https://app.powerbi.com/groups/me/reports/5cede9a3-3a2e-43be-b66a-3e912ab3cefb/a
 
 ## 📸 Dashboard Snapshot
 
-![Calgary Crime Dashboard](./PowerBI Dashboard/dashboard_snapshot.png) 
+![Calgary Crime Dashboard](./dashboard_snapshot.png) 
 
 ## 🚀 Next Steps
 
